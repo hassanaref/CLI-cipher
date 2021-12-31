@@ -1,0 +1,25 @@
+{
+  "name": "cli-cipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanaref/CLI-cipher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanaref/CLI-cipher/issues"
+  },
+  "homepage": "https://github.com/hassanaref/CLI-cipher#readme",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
